@@ -1,0 +1,191 @@
+{
+  "data_pesquisa": "2026-10-13",
+  "pontos": [
+    {
+      "id": "base",
+      "nome": "Base · Raposo Tavares",
+      "endereco": "SP-270, 8760 - Raposo Tavares, São Paulo - SP, 05576-100",
+      "lat": -23.5891066,
+      "lon": -46.795513,
+      "fonte": "https://www.waze.com/live-map/directions/brazil/state-of-sao-paulo/sao-paulo/condominio-green-park?to=place.ChIJlXwQWRJVzpQRtubKijsdc0c",
+      "observacao": ""
+    },
+    {
+      "id": "07023175000163",
+      "nome": "HONDA CEASA",
+      "endereco": "Av. Dr. Gastão Vidigal, 2351 - Vila Leopoldina, São Paulo - SP",
+      "lat": -23.5366667,
+      "lon": -46.7316667,
+      "fonte": "https://www.hondaforte.com.br/",
+      "observacao": ""
+    },
+    {
+      "id": "46621491001594",
+      "nome": "BYD AEROPORTO",
+      "endereco": "Av. Washington Luís, 3155 - Santo Amaro, São Paulo - SP",
+      "lat": -23.6503665,
+      "lon": -46.6780125,
+      "fonte": "https://www.byddahruj.com.br/contato/fale-conosco",
+      "observacao": "O link oficial BYD aponta para o mesmo ponto do complexo Jeep/Fiat Aeroporto. Conferir a entrada específica; os números das fachadas diferem."
+    },
+    {
+      "id": "46621491001160",
+      "nome": "BYD ARICANDUVA",
+      "endereco": "Av. Aricanduva, 5555 - Jardim Santa Terezinha, São Paulo - SP",
+      "lat": -23.5649672,
+      "lon": -46.5011287,
+      "fonte": "https://www.byddahruj.com.br/contato/fale-conosco",
+      "observacao": ""
+    },
+    {
+      "id": "46621491000199",
+      "nome": "BYD CEASA",
+      "endereco": "Av. Dr. Gastão Vidigal, 1687 - Vila Leopoldina, São Paulo - SP",
+      "lat": -23.5318098,
+      "lon": -46.7358566,
+      "fonte": "https://www.byddahruj.com.br/contato/fale-conosco",
+      "observacao": ""
+    },
+    {
+      "id": "46621491000431",
+      "nome": "BYD SANTO AMARO",
+      "endereco": "Av. Santo Amaro, 354 - Vila Nova Conceição, São Paulo - SP",
+      "lat": -23.5871481,
+      "lon": -46.6716849,
+      "fonte": "https://www.byddahruj.com.br/contato/fale-conosco",
+      "observacao": "Adotado o pós-vendas publicado pela BYD na avenida informada na planilha. Cadastro CNPJ também aparece na Rua Clodomiro Amazonas, 964. Conferir unidade antes de uso operacional."
+    },
+    {
+      "id": "46621491001080",
+      "nome": "BYD VILA GUILHERME",
+      "endereco": "Praça Stélio Machado Loureiro, 111 - Vila Guilherme, São Paulo - SP",
+      "lat": -23.5162854,
+      "lon": -46.6090159,
+      "fonte": "https://www.byddahruj.com.br/contato/fale-conosco",
+      "observacao": ""
+    },
+    {
+      "id": "05026792001240",
+      "nome": "JEEP CEASA",
+      "endereco": "Av. Dr. Gastão Vidigal, 1703 - Vila Leopoldina, São Paulo - SP",
+      "lat": -23.5319747,
+      "lon": -46.7358496,
+      "fonte": "https://www.jeepdahruj.com.br/",
+      "observacao": "Site da loja usa 1703; cadastro da montadora menciona 1687, setor B. Adotada a entrada comercial."
+    },
+    {
+      "id": "05026792000359",
+      "nome": "FIAT ARICANDUVA",
+      "endereco": "Av. Aricanduva, 5555 - Jardim Santa Terezinha, São Paulo - SP",
+      "lat": -23.565932,
+      "lon": -46.5006822,
+      "fonte": "https://www.ventuno.com.br/institucional/entre-em-contato",
+      "observacao": ""
+    },
+    {
+      "id": "05026792000197",
+      "nome": "FIAT CEASA",
+      "endereco": "Av. Dr. Gastão Vidigal, 1725 - Vila Leopoldina, São Paulo - SP",
+      "lat": -23.5318086,
+      "lon": -46.7359655,
+      "fonte": "https://www.ventuno.com.br/institucional/entre-em-contato",
+      "observacao": ""
+    },
+    {
+      "id": "05026792000863",
+      "nome": "FIAT NACOES UNIDAS",
+      "endereco": "Av. das Nações Unidas, 22665 - Vila Almeida, São Paulo - SP",
+      "lat": -23.6781249,
+      "lon": -46.6961277,
+      "fonte": "https://www.ventuno.com.br/institucional/entre-em-contato",
+      "observacao": ""
+    },
+    {
+      "id": "05026792002211",
+      "nome": "FIAT OSASCO",
+      "endereco": "Av. dos Autonomistas, 1473 - Vila Yara, Osasco - SP",
+      "lat": -23.5415248,
+      "lon": -46.7678871,
+      "fonte": "https://www.ventuno.com.br/institucional/entre-em-contato",
+      "observacao": ""
+    },
+    {
+      "id": "05026792001592",
+      "nome": "JEEP ARICANDUVA",
+      "endereco": "Av. Aricanduva, 5555 - Jardim Santa Terezinha, São Paulo - SP",
+      "lat": -23.5664964,
+      "lon": -46.5002245,
+      "fonte": "https://www.jeepdahruj.com.br/",
+      "observacao": ""
+    },
+    {
+      "id": "05026792001754",
+      "nome": "JEEP GUARULHOS",
+      "endereco": "Av. Guarulhos, 1814 - Gopoúva, Guarulhos - SP",
+      "lat": -23.4832229,
+      "lon": -46.543209,
+      "fonte": "https://www.jeepdahruj.com.br/",
+      "observacao": ""
+    },
+    {
+      "id": "05026792001916",
+      "nome": "JEEP INTERLAGOS",
+      "endereco": "Av. Washington Luís, 3561 - Santo Amaro, São Paulo - SP",
+      "lat": -23.6503665,
+      "lon": -46.6780125,
+      "fonte": "https://www.jeepdahruj.com.br/",
+      "observacao": "Interlagos na planilha corresponde à unidade comercial Aeroporto; número confirmado por cadastro CNPJ do Banco Alfa."
+    },
+    {
+      "id": "05026792001320",
+      "nome": "JEEP SUMARE",
+      "endereco": "Av. Sumaré, 611 - Perdizes, São Paulo - SP",
+      "lat": -23.5338989,
+      "lon": -46.6742914,
+      "fonte": "https://www.jeepdahruj.com.br/",
+      "observacao": ""
+    },
+    {
+      "id": "05026792002130",
+      "nome": "JEEP VL GUILHERME",
+      "endereco": "Av. Joaquina Ramalho, 8 - Vila Guilherme, São Paulo - SP",
+      "lat": -23.5166973,
+      "lon": -46.6094551,
+      "fonte": "https://www.jeep.com.br/servicos-financeiros/next-jeep.html",
+      "observacao": "Endereço do CNPJ preservado. Coordenada do diretório Locais do Brasil, próxima à entrada comercial Norte, Praça Stélio Machado Loureiro, 51."
+    },
+    {
+      "id": "07950180000383",
+      "nome": "NISSAN CEASA",
+      "endereco": "Av. Dr. Gastão Vidigal, 1655 - Vila Leopoldina, São Paulo - SP",
+      "lat": -23.5321971,
+      "lon": -46.735564,
+      "fonte": "https://www.nissandahruj.com.br/fale-conosco/",
+      "observacao": "Site oficial usa 1655; comunicação da loja também cita 1687. Adotados endereço e ponto do site oficial."
+    },
+    {
+      "id": "51919345000265",
+      "nome": "BYD MOOCA · DEALER",
+      "endereco": "Av. Alcântara Machado, 576 - Mooca, São Paulo - SP",
+      "lat": -23.553013,
+      "lon": -46.619383,
+      "fonte": "https://www.dealerbyd.com.br/contato/fale-conosco",
+      "observacao": ""
+    },
+    {
+      "id": "51919345000184",
+      "nome": "BYD NAÇÕES UNIDAS · DEALER",
+      "endereco": "Av. das Nações Unidas, 21599 - Vila Almeida, São Paulo - SP",
+      "lat": -23.6706016,
+      "lon": -46.7029445,
+      "fonte": "https://www.dealerbyd.com.br/contato/fale-conosco",
+      "observacao": "Adotada entrada comercial 21599 do site oficial. Cadastro CNPJ menciona 21621."
+    }
+  ],
+  "consumo_km_l": 12.0,
+  "preco_gasolina": 6.34,
+  "consumo_fonte": "https://www.shopcar.com.br/fichatecnica.php?id=76",
+  "consumo_nota": "Referência de ficha técnica secundária para Fiesta hatch 1.0 Rocam 2011–2013: 12 km/l na cidade. Não é medição deste veículo. Ajuste para o consumo real; reserva adicional de 10% aplicada separadamente.",
+  "preco_fonte": "https://www.gov.br/anp/pt-br/assuntos/precos-e-defesa-da-concorrencia/precos/arq-sintese-semanal/2026/sintese-precos-41.pdf",
+  "preco_nota": "ANP, gasolina C comum, município de São Paulo, semana de 04 a 10/10/2026: R$ 6,34/l. Valor histórico fixo, editável."
+}
